@@ -1,0 +1,42 @@
+.navigation-pages  {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    gap: 46px;
+    justify-content: center;
+}
+
+.navigation-pages .link{
+    color: #e26980;
+    text-decoration: none;
+}
+
+img {
+    height: 300px;
+    width: 100%;
+}
+
+.menu-tab {
+    display: inline-block;
+    margin: 2rem 5rem;
+}
+
+.menu-tab img{
+    height: 6rem;
+    width: 8rem;
+}
+
+.menu-tab span{
+    display: flex;
+    color: #e26980;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu-tab:hover {
+    cursor: pointer;
+}
+
+h3 {
+    color: white;
+}

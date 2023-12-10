@@ -1,0 +1,27 @@
+nav {
+    margin: 0;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    text-decoration: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: #e26980;
+}
+
+.slogan {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 15px;
+}
+
+nav ul{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    list-style: none;
+    padding: 10px;
+    gap: 20px;
+}

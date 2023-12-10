@@ -1,0 +1,33 @@
+h1 {
+    color: white;
+}
+
+.link {
+    color: #e26980;
+    text-decoration: none;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+form label {
+    margin: 2px;
+}
+
+form input {
+    border-radius: 12px;
+}
+
+button {
+    margin: 10px;
+    border-radius: 5px;
+    background-color: #e26980;
+    color: white;
+}
+
+button:hover{
+   cursor: pointer;
+}
